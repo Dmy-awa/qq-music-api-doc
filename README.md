@@ -1,7 +1,5 @@
 # QQ Music API 文档
 
-[![Deploy VitePress](https://github.com/tooplick/tooplick.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/tooplick/tooplick.github.io/actions/workflows/deploy.yml)
-
 基于 VitePress 构建的 [QQ Music API](https://github.com/tooplick/qq-music-api) 项目文档和调用示例。
 
 🌐 **在线访问**: [doc.ygking.top](https://doc.ygking.top)
@@ -49,7 +47,7 @@ npm run docs:build
 3. 选择仓库并配置：
    - **Framework preset**: `None`
    - **Build command**: `npm run docs:build`
-   - **Build output directory**: `docs/.vitepress/dist`
+   - **Build output directory**: `.vitepress/dist`
 4. 点击 **Save and Deploy**
 
 ## 许可证

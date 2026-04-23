@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  srcDir: './docs',
   title: "QQ Music API",
   description: "基于 Cloudflare Workers 的 QQ 音乐 API 服务文档",
   head: [
